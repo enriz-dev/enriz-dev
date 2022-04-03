@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Entol Rizky</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Entol Rizky</h1>
 <h3 align="center">A passionate Backend Development From Indonesia</h3>
 
 - 🌱 I’m currently learning **Laravel**
