@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Entol Rizky</h1>
 <h3 align="center">A passionate Backend Development From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeerrrm&label=Profile%20views&color=0e75b6&style=flat" alt="meeerrrm" /> </p>
-
 - 🌱 I’m currently learning **Laravel**
 
 - ⚡ Fun fact **I think I am lucky**
