@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad Entol Rizky</h1>
 <h3 align="center">A passionate Fullstact Website Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meeerrrm&label=Profile%20views&color=0e75b6&style=flat" alt="meeerrrm" /> </p>
+👨‍💻 All of my projects are available at [entolrizky.com](https://entolrizky.com)
 
-- 👨‍💻 All of my projects are available at [entolrizky.com](entolrizky.com)
+📝 I regularly write articles on [blog.entolrizky.com](https://blog.entolrizky.com)
 
-- 📝 I regularly write articles on [blog.entolrizky.com](blog.entolrizky.com)
+💬 Ask me about **Laravel, SEO, Database Design**
 
-- 💬 Ask me about **Laravel, SEO, Database Design**
+📫 How to reach me **mohammad.erm08@gmail.com**
 
-- 📫 How to reach me **mohammad.erm08@gmail.com**
-
-- ⚡ Fun fact **Im human**
+⚡ Fun fact **Im human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
