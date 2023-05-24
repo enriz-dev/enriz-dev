@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Laravel, SEO, Database Design**
 
-- 📫 How to reach me **me@entolrizky.com**
+- 📫 How to reach me **mohammad.erm08@gmail.com**
 
-- ⚡ Fun fact **Im humas**
+- ⚡ Fun fact **Im human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
